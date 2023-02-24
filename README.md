@@ -4,7 +4,8 @@ Docker practice project
 This is a practice project to start working with containers. I worked on this project to get more acquaintance with docker and container technology in general. This project
 was done following [this FreeCodeCamp video](https://www.youtube.com/watch?v=9zUHg7xjIqQ).
 
-##Approach
+## Approach
+
 - Create a node.js app locally.
 
 - Create a Dockerfile including needed dependencies and your app. Also, create .dockerignore file.
@@ -28,13 +29,16 @@ was done following [this FreeCodeCamp video](https://www.youtube.com/watch?v=9zU
 - Add swarm settings (for orchestration) to docker compose files.
 
 
+
 After checking that everything is working locally:
 
 - Push image to Azure Conatiner Registry
 
 - On an Azure VM, pull the image and run the conatainers.
 
-#Tools Used
+
+## Tools Used
+
 
 Docker,Docker Desktop
 
