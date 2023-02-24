@@ -32,7 +32,7 @@ was done following [this FreeCodeCamp video](https://www.youtube.com/watch?v=9zU
 
 After checking that everything is working locally:
 
-- Push image to Azure Conatiner Registry
+- Push image to Azure Conatiner Registry.
 
 - On an Azure VM, pull the image and run the conatainers.
 
